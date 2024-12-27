@@ -53,7 +53,7 @@ const config: Config = {
       items: [
         { to: '/blog', label: 'Blog', position: 'left' },
         {
-          href: 'https://github.com/Oosasukel/finances-hub',
+          href: 'https://github.com/rodrigogonn/finances-hub',
           label: 'GitHub',
           position: 'right',
         },
